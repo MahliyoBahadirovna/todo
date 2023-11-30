@@ -3,3 +3,5 @@
 .env
 *.pyc
 .venv/
+exam_last.zip
+exam_last.tar.gz
